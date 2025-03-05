@@ -1,2 +1,2 @@
 # Live-Chat
-Live Chat is website user supporting, get users ability to online chat with admin through website page. In addition the live chat service have utility as ticket system to putting users messages for responding later. 
+The Live chat is an opportunity for website users to chat with the admin through the website page to support their requirements. They can chat with the administrator online and also send their media, such as various types of files, images, etc. In addition, the live chat service can be used as a ticket system for users, allowing them to place their messages in the system for a response later.
